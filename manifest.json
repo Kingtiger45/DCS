@@ -14,17 +14,17 @@
     {
       "type": "page1",
       "file": "mission-card.html",
-      "label": "Coord Card"
+      "label": "MISSION CARD"
     },
      {
       "type": "page2",
       "file": "threats-targets-map.html",
-      "label": "Mission Card"
+      "label": "THREATS AND MAP"
     },
     {
       "type": "notes",
       "file": "notes.html",
-      "label": "Notes"
+      "label": "NOTES"
     }
   ]
 }
