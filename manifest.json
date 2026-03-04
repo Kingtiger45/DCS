@@ -3,7 +3,7 @@
   "version": 1,
   "pack": {
     "id": "test-external-pack",
-    "name": "Test External Templates",
+    "name": "Kings Test Template",
     "description": "Test templates for verifying external template binding",
     "author": "Vibeboard Test",
     "group": "Test Templates",
