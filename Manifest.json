@@ -1,21 +1,13 @@
 {
-  "name": "OH-58D Scout Card (4-Ship)",
+  "name": "OH-58D Blackjack (BJ41–BJ42)",
   "version": "1.0.0",
   "templates": [
     {
       "type": "page1",
-      "file": "mission-card.html",
-      "label": "Coord Card"
-    },
-     {
-      "type": "page2",
-      "file": "threats-targets-map.html",
-      "label": "Mission Card"
-    },
-    {
-      "type": "notes",
-      "file": "notes.html",
-      "label": "Notes"
+      "file": "page1.html",
+      "aircraftVariants": {
+        "OH58D": "page1.html"
+      }
     }
   ]
 }
