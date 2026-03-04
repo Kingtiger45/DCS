@@ -1,0 +1,30 @@
+{
+  "$schema": "https://digitalkneeboardsimulator.com/schemas/template-manifest.v1.json",
+  "version": 1,
+  "pack": {
+    "id": "test-external-pack",
+    "name": "Test External Templates",
+    "description": "Test templates for verifying external template binding",
+    "author": "Vibeboard Test",
+    "group": "Test Templates",
+    "pilotsCount": 4,
+    "defaultTheme": "light"
+  },
+  "templates": [
+    {
+      "type": "page1",
+      "file": "mission-card.html",
+      "label": "Coord Card"
+    },
+     {
+      "type": "page2",
+      "file": "threats-targets-map.html",
+      "label": "Mission Card"
+    },
+    {
+      "type": "notes",
+      "file": "notes.html",
+      "label": "Notes"
+    }
+  ]
+}
